@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#673ab7</color>
+    <color name="colorPrimaryDark">#512da8</color>
+    <color name="colorAccent">#673ab7</color>
+
+    <color name="colorContraste">#EDEDED</color>
+    <color name="actividad">#ffffff</color>
+    <color name="musical">#610a97</color>
+    <color name="deportiva">#0da6e8</color>
+    <color name="viaje">#e8700d</color>
+    <color name="friki">#e80db9</color>
+    <color name="teatro">#e8bc0d</color>
+    <color name="gastronomia">#c40919</color>
+    <color name="carta">#eb512da8</color>
+    <color name="pancarta">#ca512da8</color>
+    <color name="fondo">#d8d7da</color>
+    <color name="banner2">#6ad8d6d6</color>
+    <color name="suspenso">#ebe54242</color>
+    <color name="fondo2">#edebee</color>
+    <color name="carta2">#d3d8d7da</color>
+    <color name="floatsee">#d2512da8</color>
+</resources>
